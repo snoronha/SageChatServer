@@ -4,6 +4,7 @@
     "description": "Sage Chat Server",
     "dependencies": {
         "express": "^4.15.2",
+        "pg": "^7.3.0",
         "socket.io": "^2.0.3"
     }
 }
